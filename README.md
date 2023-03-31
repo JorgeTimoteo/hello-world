@@ -11,3 +11,7 @@
 This is an example of a GitHub repository.
 
 Testing test!!!
+
+This is so awesome.
+
+Some more changes.
